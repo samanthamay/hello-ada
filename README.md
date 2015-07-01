@@ -1,2 +1,3 @@
 # hello-ada
-First attempt
+
+Student: Nanny:, pizza lover:.

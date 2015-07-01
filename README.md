@@ -17,6 +17,9 @@
                 <li> Entered info and links to the museum's online collection. </li>
                 <li> Research information in regards to art pieces/ artists. </li>
                 </u>
+                </div>
+                <div class="left"></div>
+                <div class="right">
             <p> Nanny, Sposato Family, June 2013-present </p>
                 <li> Caregiver for family with one child, age 4. </li>
                 <li> Provided support for the family </li>

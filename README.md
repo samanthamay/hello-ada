@@ -16,12 +16,9 @@
             <ul>
                 <li> Entered info and links to the museum's online collection. </li>
                 <li> Research information in regards to art pieces/ artists. </li>
-            
             <p>Nanny, Sposato Family, June 2013-present</p>
-            <ul>
                 <li> Caregiver for family with one child, age 4. </li>
                 <li> Provided support for the family </li>
-  <ul>
   <p> Intern, National Archives and Records Administration, April 2013-June 2013 </p>
 <ul>
 <li> Worked with classified documents
